@@ -2,3 +2,4 @@ pyrogram==1.2.5
 tgcrypto
 pytz
 config
+logger
